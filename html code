@@ -1,0 +1,92 @@
+<html>
+<head>
+  <title> A new try </title>
+  <link rel="stylesheet" href="webdes.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+<body>
+  <div class="container">
+    <div class="menu-bar">
+      <ul>
+        <li class="active"> <a href="#"><i class="fa fa-home" ></i>Home</a></li>
+
+
+        <li><a href="#"><i class="fa fa-user" ></i>About us</a>
+        <div class ="sub-menu-1">
+          <ul>
+              <li><a href="#"><i class="fa fa-tasks" ></i>Mission</a></li>
+            <li><a href="#"><i class="fa fa-eye"></i>Vision</a></li>
+              <li><a href="#"><i class="fa fa-users" ></i>Team</a></li>
+              </ul></div></li>
+              <li><a href="#"><i class="fa fa-clone" ></i>Services</a>
+                <div class="sub-menu-1">
+                  <ul>
+
+              <li class="hover-me"><a href="#">Online Course<i class="fa fa-angle-right"></i></a>
+                <div class="sub-menu-2">
+                  <ul>
+                    <li><a href="#">JAVA</a></li>
+                    <li><a href="#">Python</a></li>
+                    <li><a href="#">C Language</a></li>
+                    <li><a href="#">Web Development</a></li>
+                      <li><a href="#">Android with Kotlin</a></li>
+                        <li><a href="#">Web Designing</a></li>
+                  </ul></div></li>
+              <li class="hover-me"><a href="#"> Online Book Reading<i class="fa fa-angle-right"></i></a>
+                <div class="sub-menu-2">
+                  <ul>
+                    <li><a href="#">Action and Adventure</a></li>
+                    <li><a href="#">Detective and Mystery</a></li>
+                    <li><a href="#">Comic Book</a></li>
+                    <li><a href="#">Historical Fiction</a></li>
+                    <li><a href="#">Fantasy</a></li>
+                    <li><a href="#">Science Fiction</a></li>
+                    <li><a href="#">Horror</a></li>
+                    <li><a href="#">Sample Paper</a></li>
+                    <li><a href="#">Engineering Book</a></li>
+                  </ul></div></li>
+      <li><a href="#"> <i class="fa fa-book"></i> Order Book </a></li>
+      </ul></div></li>
+        <li><a href="#"><i class="fa fa-users" ></i>Clients</a></li>
+        <li><a href="#"><i class="fa fa-inr" ></i>Pricing</a></li>
+        <li><a href="#"><i class="fa fa-product-hunt" ></i>Product</a></li>
+        <li><a href="#"><i class="fa fa-phone" ></i>Contact</a></li>
+        <li <a href="#"<i class="fa fa-star" ></i>  Rating</a></li>
+      </ul>
+  </div>
+
+
+
+
+
+  <div class="search">
+  <input type="text" name="" placeholder="Search..."></div>
+  <div class="top-container">
+
+</div>
+</div>
+
+<div class= foot>
+
+<footer id="footer">
+
+<div class="social-icon">
+  <hr>
+    <a href="#"><i class="fa fa-facebook"></i></a>
+    <a href="#"><i class="fa fa-instagram"></i></a>
+      <a href="#"><i class="fa fa-github"></i></a>
+    <a href="#" > <i class="fa fa-stack-overflow" aria-hidden="true"></i></a>
+        <a href="#"><i class="fa fa-twitter"></i></a>
+        <a href="#"><i class="fa fa-linkedin"></i></a>
+          <a href="#"><i class="fa fa-envelope"></i></a>
+        </div>
+<p class= "footpara"> &copy Copyright 2021 CodeplayerSnippet</p>
+<hr>
+</footer>
+<div class=codingcard>
+  <img scr="https://giftsforcardplayers.com/wp-content/uploads/2017/08/Screen-Shot-2017-08-28-at-8.31.45-AM-1024x459.png">
+</div>
+</div>
+</body>
+</html>
